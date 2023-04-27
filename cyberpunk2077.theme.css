@@ -14,7 +14,7 @@
 :root {
     --background-primary: linear-gradient(180deg, rgba(23,0,5,.75) 10%, rgba(0,0,0,1) 65%); /* Background gradient */
     --background-secondary: linear-gradient(180deg, rgba(23,0,5,.75) 10%, rgba(0,0,0,1) 65%); /* Background gradient */
-    --font-primary: 'Rajdhani'; /* Font */
+    --font-primary: 'Verdana'; /* Font */
     --primary-text-color: lightgray; /* Font color */
 
     --primary: 23, 13, 22;  /* Background color mainly used for popups */
